@@ -38,7 +38,7 @@ character["Kate Hair"]:SetAttribute("Minion",true)
 character["Pal Hair"]:SetAttribute("Minion",true)
 
 game:GetService("StarterGui"):SetCore("SendNotification",{
-	Title = "FE Minions V2",
+	Title = "(RS) Minions/Kids",
 	Text = "Made by Rouxhaver",
 	Icon = "rbxassetid://12997341656"
 })
